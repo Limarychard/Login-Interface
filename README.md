@@ -1,6 +1,6 @@
 # Login Interface
 
-<img src="./asseets/Interface-print.jpeg" alt="Interface-Login" width="250px">
+<img src="./assseets/Interface-print.jpeg" alt="Interface-Login" width="250px">
 
 > Result of the Yoga project, with login and registration screen
 
@@ -18,7 +18,7 @@ The project is still under development and future updates will focus on the foll
   <tr>
       <td aling ="center">
         <a href="https://github.com/Limarychard">
-         <img src="./asseets/my-photo.jpeg" width=100px alt="Foto do Rychard Lima"/> <br>
+         <img src="./assseets/my-photo.jpeg" width=100px alt="Foto do Rychard Lima"/> <br>
           <sub>
             <b> <a href="https://www.linkedin.com/in/rychard-lima-802a60210/"> Rychard Lima </a> </b>
           </sub>
@@ -26,5 +26,3 @@ The project is still under development and future updates will focus on the foll
       </td>
   </tr>
 </table>
-
- 
